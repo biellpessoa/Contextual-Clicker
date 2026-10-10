@@ -1,3 +1,5 @@
+LINK DO GITHUB E VIDEOS: https://drive.google.com/drive/folders/1dLN-6cQ8pTQfm9XagKUjM2_2H1qkcZ_D?usp=sharing
+
 # Contextual Clicker — Checkpoint 5 (MVP Jogável & API Desacoplada)
 
 > **Projeto interdisciplinar de Jogos / NLP (Agentes Virtuais) e Front-End — FIAP**  
